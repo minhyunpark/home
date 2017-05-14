@@ -24,4 +24,4 @@ public class Car implements Valuable {
 	public String toString(){
 		return String.format("Car name : %s\n inital price : %.2f",name,price);
 	}
-}
+}//

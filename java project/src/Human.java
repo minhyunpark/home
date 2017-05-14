@@ -20,4 +20,4 @@ public class Human implements Valuable {
 	public String toString(){
 		return String.format("Human name : %s\nregistered age : %d",name,age);
 	}
-}
+}//

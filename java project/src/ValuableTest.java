@@ -12,4 +12,4 @@ public class ValuableTest {
 		accountList.add(account1);
 		accountList.add(account2);
 	}
-}
+}//
